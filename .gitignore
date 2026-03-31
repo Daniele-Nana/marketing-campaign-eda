@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Fichiers de données (optionnel, si le CSV est volumineux)
+marketing_campaign.csv
+
+# Fichiers Streamlit / logs
+.streamlit/
+*.log
+
+# Fichiers d’IDE
+.vscode/
+.idea/
